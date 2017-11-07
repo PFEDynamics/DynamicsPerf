@@ -1,0 +1,2 @@
+# DynamicsPerf
+Performance Analyzer for Microsoft Dynamics (DynamicsPerf 2.0) is a toolset developed by Microsoft Premier Field Engineering. This toolset is a set of SQL scripts to collect SQL Server DMV data and Microsoft Dynamics specific product data persisted into a singular database called DynamicsPerf. This allows for quick resolution of performance issues on Microsoft Dynamics products (CRM, AX, GP, NAV, SL)
